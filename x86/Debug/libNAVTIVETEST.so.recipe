@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>F:\Class\6.0\NAVTIVETEST\x86\Debug\libNAVTIVETEST.so;C:\Users\hki23\AppData\Local\Android\Sdk\ndk-bundle\prebuilt\android-x86\gdbserver\gdbserver;C:\Users\hki23\AppData\Local\Android\Sdk\ndk-bundle\sources\cxx-stl\llvm-libc++\libs\x86\libandroid_support.a;C:\Users\hki23\AppData\Local\Android\Sdk\ndk-bundle\sources\cxx-stl\llvm-libc++\libs\x86\libc++_static.a;C:\Users\hki23\AppData\Local\Android\Sdk\ndk-bundle\sources\cxx-stl\llvm-libc++\libs\x86\libc++abi.a</SOLibPaths>
+  <AndroidLibPaths />
+  <OObjPaths>F:\Class\6.0\NAVTIVETEST\NAVTIVETEST\NAVTIVETEST.NativeActivity\x86\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>x86</Platform>
+  <AndroidArchitecture>x86</AndroidArchitecture>
+  <!--links to other recipe files-->
+  <RecipeFiles />
+</project>

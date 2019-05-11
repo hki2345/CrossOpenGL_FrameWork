@@ -1,0 +1,8 @@
+﻿  ANDROID_HOME=C:\Users\hki23\AppData\Local\Android\Sdk
+  ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Apps\apache-ant-1.9.3
+  JAVA_HOME=C:\Program Files\Android\Android Studio\jre
+  NDK_ROOT=C:\Users\hki23\AppData\Local\Android\Sdk\ndk-bundle
+  pch.h
+  android_native_app_glue.c
+  main.cpp
+  NAVTIVETEST.NativeActivity.vcxproj -> F:\Class\6.0\NAVTIVETEST\x86\Debug\libNAVTIVETEST.so

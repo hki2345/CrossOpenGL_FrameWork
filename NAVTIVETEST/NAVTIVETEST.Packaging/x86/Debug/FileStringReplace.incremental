@@ -1,0 +1,1 @@
+$(AntDependencies)=;$(ApplicationId)=applicationId = "";$(ConfigurationType)=application;$(AarDependencies)=;$(AarDependenciesSettings)=;$(ApplicationName)=NAVTIVETEST;$(AndroidAppLibName)=NAVTIVETEST;$(AndroidBuildToolsVersion)=28.0.3;$(AndroidAPILevelNumber)=25;$(androidapilevel)=android-25;$(projectname)=NAVTIVETEST.Packaging;
