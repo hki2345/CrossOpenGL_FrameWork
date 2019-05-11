@@ -1,0 +1,4 @@
+glut 구현 자료들 http://soen.kr/lecture/library/opengl/opengl-1.htm
+glut 부가 라이브러리 https://alleysark.tistory.com/257
+freeglut 설정 https://blog.amaorche.com/20
+64비트 https://m.blog.naver.com/PostView.nhn?blogId=untitle4236&logNo=221233144404&proxyReferer=https%3A%2F%2Fwww.google.com%2F
